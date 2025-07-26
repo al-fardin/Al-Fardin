@@ -12,7 +12,7 @@
 - ✉️ Email: [2023331009@student.sust.edu](mailto:2023331009@student.sust.edu)
 - 🌐 Portfolio: [al-fardin.github.io/my-portfolio](https://al-fardin.github.io/my-portfolio/)
 - 🧑‍💻 GitHub: [github.com/Al-Fardin](https://github.com/Al-Fardin)
-- 💼 LinkedIn: *coming soon*
+- 💼 LinkedIn: [linkedin.com/in/al-fardin-290b01360](https://www.linkedin.com/in/al-fardin-290b01360)
 
 ---
 
